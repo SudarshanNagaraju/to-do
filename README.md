@@ -1,7 +1,6 @@
 # TO-DO App with React Hook
 An Animated Todo List Made With React Hooks, Is a simple and awesome app to organize your tasks with very easy to use interface. 
-## Click below link for Live App 
-[https://sorting-illustration.herokuapp.com/](https://sorting-illustration.herokuapp.com/)
+
 
 ## GIF Illustration
 ![](todo.gif)
